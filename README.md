@@ -1,4 +1,1 @@
-[https://github.com/Olaf-06/MyArchery/blob/main/Archery.mov]
-
-
-(https://media.githubusercontent.com/media/Olaf-06/MyArchery/main/Archery.mov)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
